@@ -6,3 +6,15 @@ footer {
 	text-align: center;
 	margin-top: 40px;
 }
+
+.plan {
+    text-align: center;
+    background: #f4f4f4;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 65px 5px;
+}
+
+.button {
+    border-radius: 25px 5px;
+}
